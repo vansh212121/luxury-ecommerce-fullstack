@@ -1,6 +1,5 @@
 # ELYSIAN – Full-Stack Luxury E-Commerce Platform
 
-![Luxe Threads Mockup](https://placehold.co/1200x600/151515/DBAB58?text=Luxe+Threads)
 
 A complete, production-ready e-commerce platform for a luxury fashion brand, built from the ground up with a scalable FastAPI backend and a modern React frontend. This project demonstrates a full suite of features, from a dynamic product catalog and user authentication to a transactional order system and a comprehensive admin panel.
 
